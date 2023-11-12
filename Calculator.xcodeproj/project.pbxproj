@@ -16,6 +16,7 @@
 		54601EA12AF91D5E00E0DB7E /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54601EA02AF91D5E00E0DB7E /* CalculatorTests.swift */; };
 		54601EAB2AF91D5E00E0DB7E /* CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54601EAA2AF91D5E00E0DB7E /* CalculatorUITests.swift */; };
 		54601EAD2AF91D5E00E0DB7E /* CalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54601EAC2AF91D5E00E0DB7E /* CalculatorUITestsLaunchTests.swift */; };
+		5493D7E12AFE7FA90041EB19 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5493D7E02AFE7FA90041EB19 /* RoundButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		54601EA62AF91D5E00E0DB7E /* CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		54601EAA2AF91D5E00E0DB7E /* CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITests.swift; sourceTree = "<group>"; };
 		54601EAC2AF91D5E00E0DB7E /* CalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5493D7E02AFE7FA90041EB19 /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				54601E8B2AF91D5C00E0DB7E /* SceneDelegate.swift */,
 				54601E8D2AF91D5C00E0DB7E /* ViewController.swift */,
 				54601E8F2AF91D5C00E0DB7E /* Main.storyboard */,
+				5493D7E02AFE7FA90041EB19 /* RoundButton.swift */,
 				54601E922AF91D5E00E0DB7E /* Assets.xcassets */,
 				54601E942AF91D5E00E0DB7E /* LaunchScreen.storyboard */,
 				54601E972AF91D5E00E0DB7E /* Info.plist */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5493D7E12AFE7FA90041EB19 /* RoundButton.swift in Sources */,
 				54601E8E2AF91D5C00E0DB7E /* ViewController.swift in Sources */,
 				54601E8A2AF91D5C00E0DB7E /* AppDelegate.swift in Sources */,
 				54601E8C2AF91D5C00E0DB7E /* SceneDelegate.swift in Sources */,
